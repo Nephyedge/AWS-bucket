@@ -1,5 +1,7 @@
 # AWS-bucket
 
+The link to my project is http://nephy-first-bucket.s3-website.eu-north-1.amazonaws.com
+
 ![image](https://github.com/Nephyedge/AWS-bucket/assets/137501032/d7e883ef-eb4b-4bc0-9133-566a45fe6594)
 ![image](https://github.com/Nephyedge/AWS-bucket/assets/137501032/8154b43a-9066-400a-941b-06a9a639faf5)
 ![image](https://github.com/Nephyedge/AWS-bucket/assets/137501032/3bcf0cd7-ae2e-449d-8ec0-13b72ffc0da8)
